@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "graph.h": "c",
+    "stdio.h": "c",
+    "bit": "c",
+    "compare": "c",
+    "cstddef": "c",
+    "limits": "c",
+    "type_traits": "c",
+    "xutility": "c",
+    "list.h": "c",
+    "stdlib.h": "c"
+  }
+}
